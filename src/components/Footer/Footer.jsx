@@ -22,7 +22,7 @@ const Footer = () => {
                     </li>
                 </ul>
                 <div>
-                    <p className='text-xs font-medium'>Made with 💙 by Erick</p>
+                    <p className='text-xs font-medium'>Made with 💙 by Hilton Jr</p>
                 </div>
             </div>
         </footer>
